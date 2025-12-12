@@ -23,7 +23,7 @@ repository               : "tien-vo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "agu-2021-headshot.jpg"
   name             : "Tien Vo"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at the University of Colorado, Department of Physics"
