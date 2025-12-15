@@ -23,12 +23,12 @@ repository               : "tien-vo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "agu-2021-headshot.jpg"
+  avatar           : "agu-2021-headshot-cropped.jpg"
   name             : "Tien Vo"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD candidate at the University of Colorado, Department of Physics"
+  pronouns         : "he/him"  
+  bio              : "Physics PhD candidate at the Laboratory for Atmospheric and Space Physics"
   location         : "Boulder, Colorado"
-  employer         : "Laboratory for Atmospheric and Space Physics"
+  employer         : "University of Colorado"
   uri              : # URL
   email            : "Tien.Vo@lasp.colorado.edu" 
 
