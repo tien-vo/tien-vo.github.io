@@ -106,7 +106,32 @@
     }
   ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Physics",
+      "keywords": [
+        "plasma",
+        "nonequilibrium-thermodynamics",
+        "secular-hamiltonian-theory",
+        "turbulence",
+        "magnetic-reconnection",
+        "wave-particle-interactions",
+        "magnetosphere",
+        "solar-wind"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "keywords": [
+        "magnetospheric-multiscale-mission",
+        "parker-solar-probe",
+        "field-and-particle-correlation",
+        "particle-distribution",
+        "multi-probe-interferometry",
+        "wavelet-analysis"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
@@ -274,9 +299,17 @@
   ],
   "grants": [
     {
+      "name": "International Space Science Institute (ISSI) Team",
+      "title": "Unveiling Energy Conversion and Dissipation in Non-Equilibrium Space Plasmas",
+      "role": "Member",
+      "number": "",
+      "startDate": "2025"
+    },
+    {
       "name": "Future Investigators in NASA Earth and Space Science and Technology",
       "title": "Investigations of Particle Energization Due to Plasma Turbulence and Magnetic Reconnection with the Magnetospheric Multiscale Mission",
-      "number": "NNH22ZDA001N-FINESST",
+      "role": "Future Investigator",
+      "number": "Grant number: NNH22ZDA001N-FINESST",
       "startDate": "2023",
       "endDate": "2026"
     }

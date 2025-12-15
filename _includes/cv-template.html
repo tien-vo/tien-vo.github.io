@@ -129,7 +129,7 @@
   {% if cv.grants.size > 0 %}
   <!-- Grants -->
   <div class="cv-section">
-    <h2>Grants</h2>
+    <h2>Grants and Affiliations</h2>
     <ul class="cv-list">
       {% for grant in cv.grants %}
       <li class="cv-item">
@@ -140,7 +140,8 @@
         <div class="cv-item-content">
           <div class="cv-item-subtitle">{{ grant.title }}</div>
           {% if grant.title %}
-          <div class="cv-item-detail">{{grant.number }}</div>
+          <div class="cv-item-detail">{{ grant.role }}</div>
+          <div class="cv-item-detail">{{ grant.number }}</div>
           {% endif %}
         </div>
 
