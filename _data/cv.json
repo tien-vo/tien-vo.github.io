@@ -1,152 +1,285 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Tien Vo",
+    "email": "Tien.Vo@lasp.colorado.edu",
+    "website": "https://tienvo.me",
+    "summary": "Physics Ph.D. candidate at the University of Colorado at Boulder. I study signatures of particle acceleration due to turbulence and magnetic reconnection using data from the Magnetospheric Multiscale Mission.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "address": "1234 Innovation Drive",
+      "postalCode": "80303",
+      "city": "Boulder",
       "countryCode": "US",
-      "region": ""
+      "region": "CO"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=nkgsQVMAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-8335-1441"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "tien-vo",
+        "url": "https://github.com/tien-vo"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Colorado, Boulder",
+      "area": "Ph.D. in Physics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "startDate": "2024",
+      "endDate": "2026",
+      "gpa": 3.9,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Colorado, Boulder",
+      "area": "M.S. in Physics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "startDate": "2021",
+      "endDate": "2024",
+      "gpa": 3.9,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "University of Minnesota, Twin Cities",
+      "area": "B.S. in Physics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "startDate": "2017",
+      "endDate": "2021",
+      "gpa": 3.813,
       "courses": []
     }
   ],
-  "skills": [],
+
+  "specialized-trainings": [
+    {
+      "name": "PlasmaScience",
+      "date": "2024",
+      "position": "Participant",
+      "summary": "Studied various advanced topics in high-energy astrophysical plasmas, turbulence, magnetic reconnection, and shock acceleration mechanisms; learned advances in machine learning techniques for analyzing spacecraft data."
+    },
+    {
+      "name": "INnovative Training Enabled by a Research Software Engineering Community of Trainers (INTERSECT)",
+      "date": "2023",
+      "position": "Participant",
+      "summary": "Trained in Research Software Engineering (RSE), reproducible scientific computing, testing, CI/CD."
+    },
+    {
+      "name": "Argonne Training Program in Extreme-Scale Computing (ATPESC)",
+      "date": "2022",
+      "position": "Participant",
+      "summary": "Studied HPC topics such as hardware architectures, low-level programming models (SYCL, Kokkos, RAJA), parallel programming (MPI, OpenMP), I/O (darshan, MPI-IO, HDF5, NetCDF), visualization (VMD, Paraview, VisIt, Vapor), numerical algorithms (ARMReX, SuperLU/STRUMPACK, PETSc, HYPRE), and performance tools & debuggers (TotalView, Tau, HPCToolkits)."
+    },
+    {
+      "name": "Texas Advanced Computing Center (TACC)",
+      "date": "2020",
+      "position": "Summer Fellowship",
+      "summary": "Studied scientific HPC at Frontera and Stampede2 clusters: Slurm scheduling, visualization with structured & unstructured data, actor-based computation and Linux containers for automation of data acquisition and analysis."
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Scientific Computing and Visualization",
+      "keywords": ["python", "c++", "matlab", "julia", "fortran", "gnuplot", "hypre", "totalview", "vmd", "petsc/tao", "visit", "vapor", "paraview"]
+    },
+    {
+      "name": "High-performance Computing (HPC)",
+      "keywords": ["parallel-computing", "mpi", "openmp", "kokkos", "raja", "tau", "rocm", "darshan", "hdf5", "sycl", "amrex"]
+    },
+    {
+      "name": "Data Analysis",
+      "keywords": ["magnetospheric-multiscale-mission", "parker-solar-probe", "stereo"]
+    },
+    {
+      "name": "Software Engineering",
+      "keywords": ["plasmapy", "mmspy"]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Signatures of Velocity-Space Cascade in the Earth's Magnetosheath with MMS Observations",
+      "publisher": "In Preparation",
+      "releaseDate": "2026"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "The Kinetic Range of Strong Electric Field Turbulence Associated with Magnetotail Reconnection",
+      "publisher": "Under Review",
+      "releaseDate": "2026"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Enhanced efficiency of solar wind electron interaction with whistlers caused by switchback-related magnetic dips",
+      "publisher": "The Astrophysical Journal Letters",
+      "releaseDate": "2024",
+      "website": "https://doi.org/10.3847/2041-8213/ad614b"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Investigation of a Magnetic Reconnection Event with Extraordinarily High Particle Energization in Magnetotail Turbulence",
+      "publisher": "The Astrophysical Journal",
+      "releaseDate": "2024",
+      "website": "https://doi.org/10.3847/2041-8213/ad24eb"
+    },
+    {
+      "name": "Mesoscale Structure and Properties of the Terrestrial Magnetotail Plasma Sheet From the Magnetospheric Multiscale Mission",
+      "publisher": "Journal of Geophysical Research: Space Physics",
+      "releaseDate": "2023",
+      "website": "https://doi.org/10.1029/2023JA031358"
+    },
+    {
+      "name": "The Nonorthogonal X-line in a Small Guide-field Reconnection Event in the Magnetotail",
+      "publisher": "The Astrophysical Journal",
+      "releaseDate": "2023",
+      "website": "https://doi.org/10.3847/1538-4357/acd4ba"
+    },
+    {
+      "name": "Evidence of a Nonorthogonal X-line in Guide-field Magnetic Reconnection",
+      "publisher": "The Astrophysical Journal Letters",
+      "releaseDate": "2022",
+      "website": "https://doi.org/10.3847/2041-8213/aca679"
+    },
+    {
+      "name": "Observation of Magnetic Reconnection in a Region of Strong Turbulence",
+      "publisher": "The Astrophysical Journal Letters",
+      "releaseDate": "2022",
+      "website": "https://doi.org/10.3847/2041-8213/ac81d4"
+    },
+    {
+      "name": "Stochastic diffusion of electrons interacting with whistler-mode waves in the solar wind",
+      "publisher": "Physics of Plasmas",
+      "releaseDate": "2022",
+      "website": "https://doi.org/10.1063/5.0074474"
+    },
+    {
+      "name": "Modeling Interactions of Narrowband Large Amplitude Whistler-mode Waves with Electrons in the Solar Wind inside 0.3 au and at 1 au Using a Particle Tracing Code",
+      "publisher": "The Astrophysical Journal Letters",
+      "releaseDate": "2021",
+      "website": "https://doi.org/10.3847/2041-8213/ac08a1"
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
+      "name": "Evolution of Spectral Properties, Non-Gaussianity, and Intermittency of Plasma Turbulence Associated with Magnetotail Reconnection",
+      "event": "11th MMS Community Workshop",
+      "date": "2025",
+      "location": "Paris, FR",
+      "description": ""
+    },
+    {
+      "name": "Evolution of Spectral Properties, Non-Gaussianity, and Intermittency of Plasma Turbulence Associated with Magnetotail Reconnection",
+      "event": "INAF-IAPS Seminar",
+      "date": "2025",
+      "location": "Rome, IT",
+      "description": ""
+    },
+    {
+      "name": "Multiscale Study of Electrostatic Turbulence in the Magnetotail",
+      "event": "10th MMS Community Workshop",
+      "date": "2024",
+      "location": "Los Angeles, CA, USA",
+      "description": ""
+    },
+    {
+      "name": "Mesoscale structure and properties of the magnetotail plasma sheet from MMS observations",
+      "event": "9th MMS Community Workshop",
+      "date": "2023",
+      "location": "Boulder, CO, USA",
+      "description": ""
+    },
+    {
+      "name": "Statistics of Suprathermal Particles in the Earth’s Magnetosheath-Results from the MMS Unbiased Magnetosheath Campaign",
+      "event": "AGU Annual Meeting",
+      "date": "2023",
       "location": "San Francisco, CA, USA",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
+      "name": "A statistical study of particle energization associated with field turbulence in the magnetotail plasma sheet",
+      "event": "MMS Science Working Team meeting",
+      "date": "2022",
+      "location": "Online",
+      "description": ""
+    },
+    {
+      "name": "Identification of magnetotail current sheets with MMS magnetometer data based on a moving average algorithm",
+      "event": "US-Japan Workshop on Magnetic Reconnection",
+      "date": "2022",
+      "location": "Monterrey, CA, USA",
+      "description": ""
+    },
+    {
+      "name": "Stochastic diffusion of electrons interacting with whistler-mode waves in the solar wind",
+      "event": "Berkeley Seminar",
+      "date": "2022",
       "location": "Berkeley, CA, USA",
       "description": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
+      "name": "Survey of High-Amplitude Turbulent Electric Fields in the Magnetotail with MMS Satellites",
+      "event": "AGU Annual Meeting",
+      "date": "2022",
+      "location": "Chicago, IL, USA",
       "description": ""
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Scattering and energization by large-amplitude whistler-mode waves in the evolution of solar wind electron distributions and Hamiltonian analysis of resonant interactions",
+      "event": "AGU Annual Meeting",
+      "date": "2021",
+      "location": "New Orleans, LA, USA",
+      "description": "",
+      "website": "https://www.authorea.com/doi/full/10.1002/essoar.10505100"
+    },
+    {
+      "name": "Fully Kinetic Simulations of Radio Emission from a Propagating Electron Beam",
+      "event": "AGU Annual Meeting",
+      "date": "2021",
+      "location": "New Orleans, LA, USA",
+      "description": "",
+      "website": "https://www.authorea.com/doi/full/10.1002/essoar.10509544"
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Introductory Physics for Science and Engineering I (PHYS 1301W)",
+      "institution": "University of Minnesota Twin Cities, School of Physics and Astronomy",
+      "date": "2019",
+      "role": "Teaching Assistant",
+      "description": "Held weekly tutorials and laboratory sessions, and assumed grading and proctoring duties."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Introductory Physics for Science and Engineering II (PHYS 1302W)",
+      "institution": "University of Minnesota Twin Cities, School of Physics and Astronomy",
+      "date": "2020",
+      "role": "Teaching Assistant",
+      "description": "Held weekly tutorials and laboratory sessions, and assumed grading and proctoring duties."
+    },
+    {
+      "course": "General Physics 2 (PHYS 2020)",
+      "institution": "University of Colorado Bouder, Department of Physics",
+      "date": "2021",
+      "role": "Teaching Assistant",
+      "description": "Held weekly tutorials and laboratory sessions, and assumed grading and proctoring duties."
     }
   ],
-  "portfolio": [
+  "grants": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Future Investigators in NASA Earth and Space Science and Technology",
+      "title": "Investigations of Particle Energization Due to Plasma Turbulence and Magnetic Reconnection with the Magnetospheric Multiscale Mission",
+      "number": "NNH22ZDA001N-FINESST",
+      "startDate": "2023",
+      "endDate": "2026"
     }
-  ]
+  ],
+  "portfolio": []
 }
