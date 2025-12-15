@@ -9,9 +9,9 @@ redirect_from:
 
 Hi, welcome to my personal site!
 
-I am a Ph.D. candidate in the Department of Physics at the University of Colorado at Boulder. I work at the Laboratory for Atmospheric and Space Physics as a Graduate Research Assistant under the supervision of Dr. Robert Ergun.
+I am a Ph.D. candidate in the Department of Physics at the University of Colorado at Boulder. I plan to graduate in Spring 2026 and am looking for a job!
 
-For Ph.D., I am working on large-scale statistical analyses of data from the Magnetospheric Multiscale mission (MMS) to study the signatures of particle acceleration due to turbulence and magnetic reconnection in the Earth's magnetosphere.
+I work at the Laboratory for Atmospheric and Space Physics as a Graduate Research Assistant under the supervision of Dr. Robert Ergun. For Ph.D., I am working on large-scale statistical analyses of data from the Magnetospheric Multiscale mission (MMS) to study the signatures of particle acceleration due to turbulence and magnetic reconnection in the Earth's magnetosphere.
 
 In particular, I focus on the magnetotail, which is a uniquely overdriven plasma environment where low-density particles can be accelerated to 100-keV energies due to explosive magnetic reconnection during the Dungey cycle. Analysis of data in this environment requires deep understanding of the technical calibrations of particle instruments, as well as the limitations of magnetometers and electric field probes at very small (sub-electron) scales.
 
