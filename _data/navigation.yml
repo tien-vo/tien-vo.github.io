@@ -9,7 +9,7 @@
 
 main:
   - title: "CV"
-    url: /cv-json/
+    url: /cv/
 
   #  - title: "Training"
   #    url: /trainings/
