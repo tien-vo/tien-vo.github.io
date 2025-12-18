@@ -90,7 +90,7 @@
   "skills": [
     {
       "name": "Scientific Computing and Visualization",
-      "keywords": ["python", "c++", "matlab", "julia", "fortran", "gnuplot", "hypre", "totalview", "vmd", "petsc/tao", "visit", "vapor", "paraview"]
+      "keywords": ["python", "c++", "idl", "matlab", "julia", "fortran", "nix", "gnuplot", "hypre", "totalview", "vmd", "petsc/tao", "visit", "vapor", "paraview"]
     },
     {
       "name": "High-performance Computing (HPC)",
