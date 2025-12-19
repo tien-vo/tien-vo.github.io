@@ -352,6 +352,9 @@
         </div>
         <div class="cv-item-content">
           <div class="cv-item-subtitle">{{ training.position }}</div>
+          {% if training.location %}
+          <div class="cv-item-detail">{{ training.location }}</div>
+          {% endif %}
           {% if training.summary %}
           <div class="cv-item-detail">{{ training.summary }}</div>
           {% endif %}

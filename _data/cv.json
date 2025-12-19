@@ -64,24 +64,28 @@
     {
       "name": "PlasmaScience",
       "date": "2024",
+      "location": "Île de Porquerolles, Hyères, France",
       "position": "Participant",
       "summary": "Studied various advanced topics in high-energy astrophysical plasmas, turbulence, magnetic reconnection, and shock acceleration mechanisms; learned advances in machine learning techniques for analyzing spacecraft data."
     },
     {
       "name": "INnovative Training Enabled by a Research Software Engineering Community of Trainers (INTERSECT)",
       "date": "2023",
+      "location": "Princeton University, Princeton, New Jersey, USA",
       "position": "Participant",
       "summary": "Trained in Research Software Engineering (RSE), reproducible scientific computing, testing, CI/CD."
     },
     {
       "name": "Argonne Training Program in Extreme-Scale Computing (ATPESC)",
       "date": "2022",
+      "location": "Argonne National Laboratory, Lemont, Illinois, USA",
       "position": "Participant",
       "summary": "Studied HPC topics such as hardware architectures, low-level programming models (SYCL, Kokkos, RAJA), parallel programming (MPI, OpenMP), I/O (darshan, MPI-IO, HDF5, NetCDF), visualization (VMD, Paraview, VisIt, Vapor), numerical algorithms (ARMReX, SuperLU/STRUMPACK, PETSc, HYPRE), and performance tools & debuggers (TotalView, Tau, HPCToolkits)."
     },
     {
       "name": "Texas Advanced Computing Center (TACC)",
       "date": "2020",
+      "location": "University of Texas, Austin, Texas, USA",
       "position": "Summer Fellowship",
       "summary": "Studied scientific HPC at Frontera and Stampede2 clusters: Slurm scheduling, visualization with structured & unstructured data, actor-based computation and Linux containers for automation of data acquisition and analysis."
     }
