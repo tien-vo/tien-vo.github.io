@@ -351,10 +351,8 @@
           <div class="cv-item-date">{{ training.date | slice: 0, 4 }}</div>
         </div>
         <div class="cv-item-content">
-          <div class="cv-item-subtitle">{{ training.position }}</div>
-          {% if training.location %}
           <div class="cv-item-detail">{{ training.location }}</div>
-          {% endif %}
+          <div class="cv-item-subtitle">{{ training.position }}</div>
           {% if training.summary %}
           <div class="cv-item-detail">{{ training.summary }}</div>
           {% endif %}
